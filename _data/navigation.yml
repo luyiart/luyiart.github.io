@@ -16,5 +16,25 @@ main:
   - title: "馆务公开"
     url: /cv/
 
+  - title: "走进鲁艺"
+    url: /ly/
+
+  - title: "陈列展览"
+    url: /zl/
+
+  - title: "馆藏精品"
+    url: /jp/
+
+  - title: "学术研究"
+    url: /yj/
+
+  - title: "文化产品"
+    url: /cp/
+
+
+  - title: "服务中心"
+    url: /zc/
+
+
 #  - title: "Guide"
 #    url: /markdown/
