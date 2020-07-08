@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "馆务公开"
-permalink: /gk/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
