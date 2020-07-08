@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-学术委员会章程，工作规程等制度 [文件下载](https:luyiart.github.io/files/附件2026.docx)
+学术委员会章程，工作规程等制度 [文件下载](https://luyiart.github.io/files/附件2026.docx)
 
 ======
 * B.S. in GitHub, GitHub University, 2012
