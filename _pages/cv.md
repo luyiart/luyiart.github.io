@@ -12,6 +12,9 @@ redirect_from:
 
 学术委员会章程，工作规程等制度 [文件下载](https://luyiart.github.io/files/附件2026.docx)
 
+
+
+鲁艺博物馆馆藏品数据库[文件下载](https://luyiart.github.io/files/附件2001.docx)
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
