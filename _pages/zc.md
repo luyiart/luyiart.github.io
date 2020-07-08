@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+预约电话： 0531-82976059
 
 公交线路：
 
